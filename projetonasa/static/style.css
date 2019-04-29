@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+div img{
+    width: 150px;
+    height: 100px;
+}
+nav{
+    background-color: rgb(184, 178, 178);
+    display: flex;
+    align-items: center; 
+    font-family: 'Oswald', sans-serif;
+    font-size: 40pt;
+}
+figure img{
+    width: 100%;
+    height: 35vw;
+}
+h1{
+    margin: 0;
+    color: whitesmoke;
+}
+h2{
+    margin: 0;
+}
+section{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+figure{
+    margin: 0;
+}
+main div{
+    width: 25vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}

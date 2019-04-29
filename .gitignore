@@ -1,0 +1,4 @@
+myenv/
+.vscode
+db.sqlyte3
+__pycache__
